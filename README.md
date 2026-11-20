@@ -1,1 +1,1 @@
-# fuzecore-site
+# FuzeCore's official website
